@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/skin_krzyzyk"
+        android:title="Krzyżyk" />
+    <item
+        android:id="@+id/skin_okrag"
+        android:title="Okrąg" />
+    <item
+        android:id="@+id/skin_burger"
+        android:title="Burger" />
+    <item
+        android:id="@+id/skin_piwo"
+        android:title="Piwo" />
+    <item
+        android:id="@+id/skin_emotka"
+        android:title="Emotka" />
+    <item
+        android:id="@+id/skin_fcb"
+        android:title="FCB" />
+</menu>
