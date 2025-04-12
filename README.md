@@ -1,3 +1,3 @@
-![Opis obrazka](for-fun/1.png)
+![Opis obrazka](1.png)
 
-![Opis obrazka](for-fun/2.png)
+![Opis obrazka](2.png)
