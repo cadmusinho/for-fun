@@ -1,7 +1,4 @@
 <div align="center">
-  ![Opis obrazka](1.png)
-</div>
-
-<div align="center">
-  ![Opis obrazka](2.png)
+  <img width = "50%" src="[https://i.imgur.com/8BgVXcY.png](https://github.com/cadmusinho/for-fun/blob/master/1.png)">
+<img width = "50%" src="[https://i.imgur.com/8BgVXcY.png](https://github.com/cadmusinho/for-fun/blob/master/2.png)">
 </div>
